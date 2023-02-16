@@ -26,3 +26,15 @@
     color: darkgreen;
     font-size: 20px;
 }
+.table-style{
+    border: 15px;
+    border-color: blue;
+    background-color: azure;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 60;
+    align-items: center;
+    padding: 15px;
+}
+.prabhas{background-color: chartreuse;}
+.aamir{background-color: coral;}
+.salman{background-color: darkcyan;}
